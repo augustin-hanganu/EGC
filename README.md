@@ -1,2 +1,0 @@
-# EGC
-Teme de acasa
